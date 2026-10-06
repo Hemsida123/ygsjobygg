@@ -1,0 +1,80 @@
+{
+  "photo-0.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/64242614_1230849940426183_5425736261237211136_n.jpg",
+    "width": 1000,
+    "height": 667,
+    "sourceType": "Original website image"
+  },
+  "photo-1.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/142595544_1746445438866628_2886748336353316521_n.jpg",
+    "width": 1000,
+    "height": 667,
+    "sourceType": "Original website image"
+  },
+  "photo-2.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/62557256_1230850123759498_5365916519379238912_n.jpg",
+    "width": 1500,
+    "height": 1000,
+    "sourceType": "Original website image"
+  },
+  "photo-3.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/118317065_1612023198975520_22968703334006424_n.jpg",
+    "width": 1000,
+    "height": 667,
+    "sourceType": "Original website image"
+  },
+  "photo-4.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/118626010_1614682665376240_3238153412943120217_n.jpg",
+    "width": 1000,
+    "height": 667,
+    "sourceType": "Original website image"
+  },
+  "photo-5.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/12/118767946_1620261344818372_6283828388605138763_n.jpg",
+    "width": 1000,
+    "height": 750,
+    "sourceType": "Original website image"
+  },
+  "photo-6.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/90027639_1468404373337404_5621962283220467712_n.jpg",
+    "width": 1100,
+    "height": 733,
+    "sourceType": "Original website image"
+  },
+  "photo-7.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/89903543_1468404543337387_8053782236618555392_n.jpg",
+    "width": 1100,
+    "height": 733,
+    "sourceType": "Original website image"
+  },
+  "photo-8.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/Ygsjobygg-badrum1-1.jpg",
+    "width": 1100,
+    "height": 733,
+    "sourceType": "Original website image"
+  },
+  "photo-9.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2026/02/Ygsjobygg_Social_Profil_1080x1080.png",
+    "width": 900,
+    "height": 900,
+    "sourceType": "Original website image"
+  },
+  "service-forest.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/pexels-roger-johansen-7734229.jpg",
+    "width": 633,
+    "height": 950,
+    "sourceType": "Original website image; the hammer photograph was already stock imagery on the source site"
+  },
+  "service-machinery.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/10850168_385083078336211_7125717651782801680_n.jpg",
+    "width": 950,
+    "height": 535,
+    "sourceType": "Original website image"
+  },
+  "service-worker.webp": {
+    "origin": "https://ygsjobygg.se/wp-content/uploads/2021/11/53211743_1161254834052361_8186934915808362496_n.jpg",
+    "width": 633,
+    "height": 950,
+    "sourceType": "Original website image"
+  }
+}

@@ -1,0 +1,12 @@
+YGSJÖBYGG – FÄRDIG HEMSIDA FÖR GITHUB
+
+Lägg index.html i roten på ditt GitHub-repository.
+GitHub Pages: Settings > Pages > välj branch och /(root).
+
+Bilder, typsnitt, ikoner och funktioner är inbäddade. Ingen installation behövs. Filen fungerar också direkt från din dator.
+
+Kontakt: Klicka på Mejla oss för att visa mejladressen. Därifrån kan besökaren öppna sitt e-postprogram eller kopiera adressen. Inget kontaktformulär eller någon server behövs.
+
+Innehåll och bilder bygger på företagets officiella webbplats, granskad 5 oktober 2026. Samtliga tre referensarbeten och deras nio projektbilder ingår. Den ursprungliga företagspresentationens film nås via en länk till originalwebbplatsen.
+
+Sidan öppnas i ljust tema. Mörkt tema kan väljas med knappen i menyn och valet sparas. Projektbilder kan förstoras och navigeras med piltangenter. Escape stänger bildvisaren.
